@@ -1,0 +1,66 @@
+/* For table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+caption {
+    font-weight: bold;
+    padding: 4px;
+}
+tfoot td {
+    text-align: center;
+}
+
+/* body */
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+/* nav bar */
+nav{
+    margin: 0%;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+
+
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    color: rgb(242, 100, 100);
+    padding: 20px  40px;
+}
+
+a:visited{
+    color: gray;
+}
+a:hover{
+    background-color: rgb(169, 217, 215);
+
+}
