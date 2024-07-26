@@ -1,0 +1,1 @@
+Tis is a basic website created by only HTML and have slitly include of CSS. This overall website show about a brand new hotel named 'Tikha Khanna' has been opened shortly and have many food item for public, which enhance there taste and experience.
